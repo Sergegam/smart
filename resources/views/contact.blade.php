@@ -62,7 +62,7 @@
           <h3>Guadalajara, Jalisco</h3>
           <ul class="list-unstyled mb-5">
             <li class="mb-3">
-              <strong class="d-block mb-1">Telefonos</strong>
+              <strong class="d-block mb-1">Teléfonos</strong>
               <span>33 18 95 45 25</span>
               <br>
               <span>33 10 95 31 11</span>

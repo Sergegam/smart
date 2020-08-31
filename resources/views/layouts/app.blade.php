@@ -48,7 +48,7 @@
           <div class="col-12 text-center align-self-center text-intro">
             <div class="row justify-content-center">
               <div class="col-lg-8">
-                <h1 class="text-white" data-aos="fade-up" data-aos-delay="">Alcanza tu meta mas rapido</h1>
+                <h1 class="text-white" data-aos="fade-up" data-aos-delay="">Alcanza tu meta más rapido</h1>
                 <p class="lead text-white" data-aos="fade-up" data-aos-delay="100">Tenemos el no, nos ganamos tu Si</p>
                 <p data-aos="fade-up" data-aos-delay="200"><a href="#services-section" class="btn smoothscroll btn-danger">Nuestros servicios</a></p>
 
@@ -86,11 +86,7 @@
             </div>
           </div>
           <div class="col-lg-4">
-            <p style="font-size: 1.5rem;">Optimiza tus procesos y ten posicionamiento en internet. Necesitas ser
-              ser más competitivo en la actualidad.
-              </p>
-
-<!--             <p>The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.</p> -->
+            <p style="font-size: 1.5rem;">Optimiza tus procesos y ten posicionamiento en internet. Necesitas ser más competitivo en la actualidad.</p>
           </div>
 
 
@@ -117,7 +113,7 @@
                     <li>Estrategias digitales a la medidia</li>
                     <li>Facebook Ads</li>
                     <li>Google Ads</li>
-                    <li>Atrae mas clientes</li>
+                    <li>Atrae más clientes</li>
                     <li>Solo pagas por resultados</li>
                 </ul>
               </div>
@@ -136,7 +132,7 @@
                 <ul>
                     <li>CRM’s avanzados</li>
                     <li>E-Commerce seguros</li>
-                    <li>Desarrollos a la medida</li>
+                    <li>Desarrollo a la medida</li>
                     <li>Todos los presupuestos</li>
                 </ul>
               </div>
